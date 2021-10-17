@@ -2,7 +2,7 @@
 Test things with python
 
 
-luckyboxOnChanges.py
+luckyboxOnChanges.py - Monty Hall problem
 
 There is one gift box out of three boxes, and you can choose one box.
 After that, we will show you one box, not a gift box, among the other two boxes, and offer you the opportunity to change the box.
